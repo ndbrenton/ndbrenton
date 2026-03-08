@@ -1,27 +1,8 @@
 # Nathan Brenton
 
-Linux Systems Engineer focused on infrastructure, middleware, and automation.
+Linux Systems Engineer specializing in infrastructure, middleware, and automation.
 
-Current work includes:
-
-• Red Hat Enterprise Linux administration  
-• Oracle WebLogic middleware platforms  
-• IBM MQ messaging infrastructure  
-• TLS certificate lifecycle management  
-• Bash and PowerShell automation  
-
----
-
-## Featured Projects
-
-### AWK Live Recording Tools
-Utilities for aligning and processing multi-track recording sessions using AWK and Bash.
-
-### FFmpeg Media Workflows
-Scripts and pipelines for audio/video transcoding and post-production automation.
-
-### HTML Canvas Visualization Experiments
-Browser-based audio waveform and geometry visualization tools.
+Currently supporting enterprise middleware environments including Oracle WebLogic, Apache, and IBM MQ on Red Hat Enterprise Linux.
 
 ---
 
@@ -33,8 +14,31 @@ Oracle WebLogic
 IBM MQ  
 NGINX / Apache  
 LDAP / Active Directory  
+TLS certificate lifecycle management  
 
 ---
 
-LinkedIn:  
+## Featured Projects
+
+### AWK Live Recording Tools
+Automation utilities for aligning and processing multi-track recording sessions.
+
+### FFmpeg Media Workflows
+Scripts and pipelines for audio/video transcoding and post-production automation.
+
+### HTML Canvas Visualization Experiments
+Browser-based waveform and geometry visualizations.
+
+---
+
+## Areas of Interest
+
+Platform Engineering  
+Infrastructure Automation  
+Media Processing Pipelines  
+Audio and Visualization Tools
+
+---
+
+LinkedIn  
 https://linkedin.com/in/nathanbrenton
